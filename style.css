@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
-    color: #938CA9;
+    background-color: #7673A4; /* White */
+    color: #4B536E;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #94A4C1;  /* #959AAA grey*/
     color: #ffffff;
 }
 
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #BCB8B1;
+    background-color: #959AAA; /* Black */
+    color: black;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color:#343a40; /*  #343a40 dark grey */
     color: #fff;
 }
 
