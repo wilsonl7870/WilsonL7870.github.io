@@ -18,6 +18,8 @@ a {
 
 #logo, .project-img {
     max-height: 300px;
+    width:20%;
+    height:auto;
 }
 
 #fork img{
